@@ -1,0 +1,6 @@
+# Do not include azure-functions-worker as it may conflict with the Azure Functions platform
+
+azure-functions
+azure-functions-durable>=1.0.0b6
+azure-storage-blob>=12.6.0
+azure-storage-file-share
